@@ -68,4 +68,4 @@ email: ""
 highlight_name: true
 ---
 
-Nariyoshi Chida is a researcher at NTT Social Informatics Laboratories. His research interests are in the area of formal languages and automata theory. He received his B.CS. and M.E. from University of Aizu and Yokohama National University in 2015 and 2017, respectively.
+Nariyoshi Chida is a researcher at NTT Social Informatics Laboratories. His research interests are in the area of formal languages and automata theory. He received his B.CS. and M.E. from University of Aizu and Yokohama National University in 2015 and 2017, respectively. Currently, he is a Ph.D. student at Waseda University.
