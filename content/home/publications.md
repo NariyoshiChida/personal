@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-The publication list is available [here](./publication_list/index.html).
+The full list of publications is available [here](./publication_list/index.html).
 {{% /callout %}}
