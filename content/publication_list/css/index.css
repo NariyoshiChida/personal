@@ -1,0 +1,18 @@
+.box {
+    position: relative;
+}
+
+.box .main {
+    position: absolute;
+    left: 0;
+}
+
+.box .eng {
+    position: absolute;
+    right: 0;
+}
+
+.box .jp {
+    position: absolute;
+    right: 0;
+}
