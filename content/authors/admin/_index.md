@@ -32,7 +32,7 @@ education:
   - course: ME in Physics, Electrical and Computer Engineering
     institution: Yokohama National University
     year: 2017
-  - course: BS in Compute Science and Engineering
+  - course: BS in Computer Science and Engineering
     institution: University of Aizu
     year: 2015
 
