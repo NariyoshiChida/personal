@@ -10,7 +10,7 @@ role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: NTT Social Informatics Laboratories 
+- name: NTT
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,10 +26,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MEng in Engineering
+  - course: Dr. of Engineering
+    institution: Waseda University
+    year: 2023
+  - course: ME in Physics, Electrical and Computer Engineering
     institution: Yokohama National University
     year: 2017
-  - course: BSc in Computer Science
+  - course: BS in Compute Science and Engineering
     institution: University of Aizu
     year: 2015
 
@@ -68,4 +71,4 @@ email: ""
 highlight_name: true
 ---
 
-Nariyoshi Chida is a researcher at NTT Social Informatics Laboratories. His research interests are in the area of formal languages and automata theory. He received his B.CS. and M.E. from University of Aizu and Yokohama National University in 2015 and 2017, respectively. Currently, he is a Ph.D. student at Waseda University.
+I am a researcher at NTT. I received my Ph.D. from Waseda University. My research interests include formal languages and automata theory, program synthesis, and security.
