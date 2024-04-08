@@ -71,4 +71,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a researcher at NTT. I received my Ph.D. from Waseda University. My research interests include formal languages and automata theory, program synthesis, and security.
+I am an associate distinguished researcher at NTT. I received my Ph.D. from Waseda University. My research interests include formal languages and automata theory, program synthesis, and security.
