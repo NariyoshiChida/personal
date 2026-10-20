@@ -6,7 +6,7 @@ title: Nariyoshi Chida
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Distinguished Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
